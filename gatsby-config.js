@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Ankit Acharya',
     description:
-      'Ankit Acharya is currently a CS undergrad, looking to advance his career in the software industry.',
-    siteUrl: 'https://ankitacharya25.github.io', // No trailing slash allowed!
+      'Ankit Acharya is currently a CS undergrad, a developer and a designer, looking to advance his career in the software industry.',
+    siteUrl: 'http://ankitbuilds.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@likeprobablyno',
   },
