@@ -1,6 +1,6 @@
 ---
 date: '2021-06-12'
-title: 'Shortest-Route-City-Navigator'
+title: 'Shortest Route City Navigator'
 github: ''
 external: 'https://github.com/ankitacharya25/Shortest-Route-City-Navigator'
 tech:
