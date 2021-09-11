@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A entertaining word game thaat is run in the CLI using simple commands. THe API produces a random word which then the user has to guess. You will get hints like synonyms, definitions, examples, etc.
+A entertaining word game thaat is run in the CLI using simple commands. The API produces a random word which then the user has to guess. You will get hints like synonyms, definitions, examples, etc.
